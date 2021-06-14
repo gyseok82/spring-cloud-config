@@ -1,0 +1,6 @@
+token:
+  experation_time: 864
+  secret: user_token_native_ecommerce_prod
+
+gateway:
+  ip: 127.0.0.1
